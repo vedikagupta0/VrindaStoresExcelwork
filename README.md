@@ -8,7 +8,7 @@ This repository contains a beginner-friendly guided project that analyzes sales 
 
 This project demonstrates the use of Excel for data analysis by exploring trends, generating insights, and forming strategies to drive revenue growth. It includes:
 - Pivot tables for data summarization.
-- Visualizations for clarity.
+- Dashboard for clarity.
 - A detailed business report with key conclusions and recommendations.
 
 ---
@@ -48,7 +48,7 @@ This project demonstrates the use of Excel for data analysis by exploring trends
 Here are some of the critical insights derived from the analysis:
 
 - **Gender-Based Sales:**
-  The Women’s category generates **64% more revenue than Men’s.** Expanding product offerings for Men can improve revenue further.
+  The Women’s category generates **more revenue as compared to Men’s.** Expanding product offerings for Men can improve revenue further.
 
 - **State-Based Revenue:**
   Maharashtra leads in shipping revenue with **14% of the total share.** Focus on underperforming states like Assam, Goa, and Jharkhand to grow new markets.
@@ -97,7 +97,7 @@ To maximize revenue and operational efficiency, the following strategies are rec
 ## **How to Contribute**
 
 Feel free to contribute by:
-- Adding more visualizations or analysis techniques.
+- Adding more analysis techniques.
 - Suggesting improvements in the analysis or recommendations.
 - Sharing feedback on this repository to make it more beginner-friendly.
 
