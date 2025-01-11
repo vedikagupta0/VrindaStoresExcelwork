@@ -1,6 +1,6 @@
 # **Revenue Analysis for Vrinda Store**
 
-This repository contains a beginner-friendly guided project by Rishabh Mishra that analyzes sales data for Vrinda Store in which I made a report and some conclusions based on the Dashboard and excel work. It showcases how to use Excel for uncovering business insights and provides actionable recommendations to improve revenue.
+This repository contains a beginner-friendly guided project by Rishabh Mishra that analyzes sales data for Vrinda Store in which I made a report and some conclusions based on the dashboard and excel work. It showcases how to use Excel for uncovering business insights and provides actionable recommendations to improve revenue.
 
 ---
 
